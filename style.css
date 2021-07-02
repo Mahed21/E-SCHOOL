@@ -1,0 +1,73 @@
+.heading-background
+{
+    background-color: #f0fff0;
+    width:100%;
+    height:700px;
+}
+.button-1
+{
+    width:120px;
+    
+    height:45px;
+    border-radius:50px;
+}
+.container-fluid img
+{
+    width:200px;
+    height:60px;
+}
+.illustrator-padding
+{
+    padding-top: 100px;
+}
+.illustrator-padding img
+{
+    width:600px;
+}
+
+.cont
+{
+    padding-top: 200px;
+    
+}
+.mahed{
+    background-color: #f0fff0; 
+    border:none;
+    box-shadow:5px 10px 15px lightgray;
+    height:300px;
+   
+}
+.mahed:hover
+{
+    background-color: white;
+}
+.mahed img{
+    width: 100px;
+    height:100px;
+    margin-top:50px;
+    margin-left:90px;
+}
+.cont1
+{
+    padding-top: 50px;
+}
+.mahed3 img
+{
+    width: 250px;
+    height:200px; 
+    margin-top: 10px;
+    margin-left: 17px;
+}
+.cont3{
+    padding-top:50px;
+}
+.last-head
+{
+  width:100%;
+   
+  background-color:#282531;
+}
+.row
+{
+     padding-top: 80px;
+}
